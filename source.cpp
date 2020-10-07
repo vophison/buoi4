@@ -1,22 +1,20 @@
 int USCLN(int a, int b)
 {
-	cout << "uoc chung lon nhat"
+	cout << "Uoc chung lon nhat"
 }
 void hello()
 {
 	
-	cout<<"Hello";
+	cout<<"Chao mung ban";
 }
 int tru(int a, int b)
 {
-	cout << a - b;
-}
+	cout<<a-b;
 int cong(int a, int b)
 {
-	cout << "Phep tinh cong";
 	cout << a + b;
 }
 int nhan(int a, int b)
 {
-	cout << "Phep tinh nhan";
+	cout << a * b;
 }
